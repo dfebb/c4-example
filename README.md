@@ -1,6 +1,6 @@
 ``` plantuml
 @startuml
-    !include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+    !include <C4/C4_Component>
 
     title Component diagram for ERP Integration Microservice (FinOps Portal API)
     
